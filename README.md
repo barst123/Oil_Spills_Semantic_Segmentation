@@ -6,7 +6,8 @@ Results
 
 SAR image
 
-![ouMiUlXp](https://github.com/user-attachments/assets/2038e8c3-5138-4454-b7fa-741457e809f6)
+![rRRVAtwd](https://github.com/user-attachments/assets/bc521b3f-6fce-4026-a9f5-10ca15baab2c)
+
 
 Predicted mask
 
@@ -23,7 +24,7 @@ Wyniki
 
 Zobrazowanie SAR
 
-![ouMiUlXp](https://github.com/user-attachments/assets/2038e8c3-5138-4454-b7fa-741457e809f6)
+![rRRVAtwd](https://github.com/user-attachments/assets/9e596992-36ad-4db9-b2da-9c1a6fac9dcd)
 
 Przewidywana maska
 
